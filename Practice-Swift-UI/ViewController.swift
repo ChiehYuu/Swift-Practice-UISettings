@@ -69,7 +69,7 @@ class ViewController: UIViewController {
         newImageButton.addTarget(self, action: #selector(ViewController.hitMe2(_:)), for: .touchUpInside)
         
         
-        
+        //testing1
         
         
     }
